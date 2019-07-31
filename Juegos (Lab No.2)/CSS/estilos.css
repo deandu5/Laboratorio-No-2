@@ -1,0 +1,41 @@
+h1{
+    color:black;
+}
+
+header{
+    border-style: dotted;
+    border-color: black;
+    width: 275px;
+    padding: 1px;
+    margin: 1px;
+    background-color: transparent;
+}
+nav{
+    border-color: black;
+    border-style: solid;
+    padding: 1px;
+    margin: 1px;
+    border-width: 5px;
+    background-color: rgba(183, 195, 226, 0.959);
+}
+section{
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+    border-width: 5px;
+    border-radius: 8px;
+    background-color: rgba(67, 166, 190, 0.959);
+}
+body {
+    background-image:url("Imagens CSS/BOTW2.jpg");
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+footer{
+    border-color: black;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 8px;
+    background-color: rgba(65, 107, 117, 0.959);
+}
